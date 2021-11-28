@@ -1,0 +1,7 @@
+*.jpg
+.env*
+*.webp
+.env
+.env.yaml
+existentialrick/
+__pycache__
